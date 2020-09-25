@@ -1,1 +1,5 @@
+
 primera modificació pel tronc (master) despres d'haver creat una branca 
+
+primera modificació del fitxer per la branca1
+
